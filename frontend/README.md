@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Real-Time-Chat-Application
+Built a responsive full stack chat platform enabling real-time group and private messaging with user authentication .Designed and developed RESTful APIs with Spring Boot and secured communication using JWT authentication. Implemented WebSocket communication using STOMP protocol for real-time message frontend-backend interaction.
+>>>>>>> dc1178d1395bbcbec8db95349426927c98da0cc7
